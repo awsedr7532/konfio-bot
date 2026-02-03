@@ -1,2 +1,6 @@
-# konfio-bot
-Telegram config bot
+# Konfio Bot
+ربات تلگرام برای مدیریت کانفیگ
+
+## فایل‌ها
+- `bot.py` - کد اصلی ربات
+- `requirements.txt` - کتابخانه مورد نیاز
